@@ -1,5 +1,5 @@
-# **Animation HTML and CSS**
+## **Animation HTML and CSS**
 
-## Web development Project
+### Web development Project
 
-## This repository is dedicated to Web styling using `HTML5 + CSS3`.
+### This repository is dedicated to Web styling using `HTML5 + CSS3`.
